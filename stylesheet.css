@@ -306,5 +306,9 @@ transform: translateX(0px);
     .message-wrapper .btn {
       width: 100%;
     }
+      
+    #fade-in{
+        display: none;
+    }
   }
   
