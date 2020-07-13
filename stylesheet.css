@@ -16,6 +16,9 @@
     padding: 0 15px;
     margin: 0 auto;
   }
+   img.fade-in{
+     display: none;
+   }
   
   .top-wrapper {
     padding: 180px 0 100px 0;
