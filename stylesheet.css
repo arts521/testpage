@@ -2,10 +2,6 @@
     box-sizing: border-box;
   }
   
-    #fade-in{
-        display: none;
-    }
-
   body {
     margin: 0;
     font-family: "Hiragino Kaku Gothic ProN";
