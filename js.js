@@ -1,6 +1,6 @@
 
 $(function() {
-  $('#fade-in').hover(function(){
+  $('.heading').hover(function(){
     $('#fade-in').fadeIn();
   },
   (function(){
