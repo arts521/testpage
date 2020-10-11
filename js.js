@@ -7,5 +7,5 @@ $(function() {
     $('#fade-in').hide();
   }));
   
-  $('#button-bomb').prop("disabled", true);
+  $('#button-bomb').prop('disabled', true);
 });
