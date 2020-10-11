@@ -6,4 +6,6 @@ $(function() {
   (function(){
     $('#fade-in').hide();
   }));
+  
+  $('#button-bomb').prop("disabled", true);
 });
